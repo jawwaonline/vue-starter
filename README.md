@@ -1,14 +1,17 @@
 # vuestarter
 
-This template should help get you started developing with Vue 3 in Vite.
+This template should help get you started developing with Vue 3 with Tailwind
 
-## Recommended IDE Setup
+"NO Typescript"
+"NO Testing"
+"LESS Boilerplate"
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+## Template includes
 
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+- VUE3
+- TAILWIND
+- PINIA
+- VUE-Router
 
 ## Project Setup
 
